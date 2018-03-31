@@ -1,5 +1,4 @@
-// 분류 : 수학, 구현
-// 언어 : C++11
+// C++11
 #include <iostream>
 using namespace std;
 
