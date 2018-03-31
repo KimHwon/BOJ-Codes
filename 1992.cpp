@@ -9,7 +9,7 @@ using namespace std;
 char pic[65][65];
 vector<char> zip;
 
-void zipPic(int x, int y, int sz)   // Params : x-offset, y-offset, width&&height
+void zipPic(int x, int y, int sz) // Params : x-offset, y-offset, width&&height
 {
 	if (sz == 1)
 	{
@@ -22,9 +22,9 @@ void zipPic(int x, int y, int sz)   // Params : x-offset, y-offset, width&&heigh
 	{
 		for (int j = y; j < y + sz; j++)
 		{
-			if (flag != pic[i][j])         // 영역 전체가 같은 종류의 데이터인지 체크
+			if (flag != pic[i][j])		// 영역 전체가 같은 종류의 데이터인지 체크
 			{
-				zip.push_back('(');          // 아니라면 괄호 열고 재귀돌림
+				zip.push_back('(');	// 아니라면 괄호 열고 재귀돌림
 				zipPic(x, y, sz / 2);
 				zipPic(x + sz / 2, y, sz / 2);
 				zipPic(x, y + sz / 2, sz / 2);
@@ -36,7 +36,7 @@ void zipPic(int x, int y, int sz)   // Params : x-offset, y-offset, width&&heigh
 		}
 	}
 
-	zip.push_back(pic[x][y] + '0');    // 맞다면 그대로 출력
+	zip.push_back(pic[x][y] + '0');			// 맞다면 그대로 출력
 }
 
 int main()
@@ -51,7 +51,7 @@ int main()
 		FOR(j, n)
 		{
 			cin >> pic[j][i];
-			pic[j][i] -= '0';   // 연산의 편의를 위해 '0'->0, '1'->1 로 변경 (지금 생각하면 별 쓸데 없다)
+			pic[j][i] -= '0';	// 연산의 편의를 위해 '0'->0, '1'->1 로 변경 (지금 생각하면 별 쓸데 없다)
 		}
 	}
 
