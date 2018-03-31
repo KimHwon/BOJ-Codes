@@ -13,7 +13,7 @@ void cut(int x, int y, int sz)
 {
 	if (sz == 1)
 	{
-		++cnt[paper[x][y] + 1];
+		++cnt[paper[x][y] + 1];	// 해당 종류의 종이 카운터++
 		return;
 	}
 
@@ -39,7 +39,7 @@ void cut(int x, int y, int sz)
 		}
 	}
 
-	++cnt[paper[x][y] + 1];
+	++cnt[paper[x][y] + 1];	// 해당 종류의 종이 카운터++
 }
 
 int main()
