@@ -1,3 +1,4 @@
+// C++11
 #include <iostream>
 
 #define FOR(i, n) for (int i = 0; i < n; ++i)
@@ -25,7 +26,7 @@ int main()
 	}
 
 	mem[0][0] = tri[0][0];
-	for (int i = 1; i < t; ++i)
+	for (int i = 1; i < t; ++i)	// mem[i][j] : 위에서 부터 (i, j)까지의 합
 	{
 		FOR(j ,i + 1)
 		{
@@ -34,7 +35,7 @@ int main()
 	}
 
 	int max = mem[t - 1][0];
-	FOR(i, t)
+	FOR(i, t)			 // find maximum
 	{
 		max = MAX(max, mem[t - 1][i]);
 	}
