@@ -1,3 +1,4 @@
+// C++11
 #include <iostream>
 #include <cstring>
 
@@ -18,19 +19,20 @@ int main()
 		memset(cnt, 0, sizeof(cnt));
 		cin >> n;
 
-		if (n == 0)
+		if (n == 0)	// 예외 케이스 - 귀찮아서 하드코딩함
 		{
 			cout << "1 0\n";
 			continue;
 		}
 
 		cnt[1] = cnt[2] = 1;
-
+		
 		for (int i = 3; i <= n; ++i)
 		{
 			cnt[i] = cnt[i - 1] + cnt[i - 2];
 		}
-
+		
+		// 
 		cout << cnt[n - 1] << ' ' << cnt[n] << '\n';
 	}
 
