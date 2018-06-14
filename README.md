@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute→force) &nbsp; [Simulation](#simulation) &nbsp; [Euclidean algorithm](#euclidean→algorithm) &nbsp; [String processing](#string→processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary→search) &nbsp; [Numeral system](#numberal→system) &nbsp; [Dynamic Programming](#dynamic→programming) &nbsp; [Data structure](#data→structure) &nbsp; [Linked List](#linked→list) &nbsp; [Stack](#stack) &nbsp; [Divide and Conquer](#divide→and→conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Shortest path](#shortest→path)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [Numeral system](#numberal-system) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Data structure](#data-structure) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Shortest path](#shortest-path)
 
 #### IO
 * [#1408](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](1408.cpp)
