@@ -6,7 +6,7 @@
 ## Category
 
 <details><summary>IO</summary><ul>
-	<li>[#1408](https://www.acmicpc.net/problem/1408) &nbsp; - &nbsp; [1408.cpp](1408.cpp)</li>
+	<li> [#1408](https://www.acmicpc.net/problem/1408) &nbsp; - &nbsp; [1408.cpp](1408.cpp) </li>
 </ul></details>
 <details><summary>Mathematics</summary><ul>
 	<li>[#1000](https://www.acmicpc.net/problem/1000) &nbsp; - &nbsp; [1000.cpp](1000.cpp)</li>
