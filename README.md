@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [Numeral system](#numberal-system) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [#1408](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](1408.cpp)
@@ -22,6 +22,11 @@
 * [#2448](https://www.acmicpc.net/problem/2439) &nbsp; → &nbsp; [2448.cpp](2448.cpp)
 * [#2525](https://www.acmicpc.net/problem/2525) &nbsp; → &nbsp; [2525.cpp](2525.cpp)
 * [#2530](https://www.acmicpc.net/problem/2530) &nbsp; → &nbsp; [2530.cpp](2530.cpp)
+* [#2555](https://www.acmicpc.net/problem/2555) &nbsp; → &nbsp; [2555.cpp](2555.cpp)
+* [#2557](https://www.acmicpc.net/problem/2557) &nbsp; → &nbsp; [2557.cpp](2557.cpp)
+* [#2739](https://www.acmicpc.net/problem/2739) &nbsp; → &nbsp; [2739.cpp](2739.cpp)
+* [#2741](https://www.acmicpc.net/problem/2741) &nbsp; → &nbsp; [2741.cpp](2741.cpp)
+* [#2742](https://www.acmicpc.net/problem/2742) &nbsp; → &nbsp; [2742.cpp](2742.cpp)
 
 #### Mathematics
 * [#1000](https://www.acmicpc.net/problem/1000) &nbsp; → &nbsp; [1000.cpp](1000.cpp)
@@ -35,12 +40,19 @@
 * [#1740](https://www.acmicpc.net/problem/1740) &nbsp; → &nbsp; [1740.cpp](1740.cpp)
 * [#1964](https://www.acmicpc.net/problem/1964) &nbsp; → &nbsp; [1964.cpp](1964.cpp)
 * [#2163](https://www.acmicpc.net/problem/2163) &nbsp; → &nbsp; [2163.cpp](2163.cpp)
+* [#2558](https://www.acmicpc.net/problem/2558) &nbsp; → &nbsp; [2558.cpp](2558.cpp)
+* [#2839](https://www.acmicpc.net/problem/2839) &nbsp; → &nbsp; [2839.cpp](2839.cpp)
+* [#2869](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](2869.cpp)
+* [#2921](https://www.acmicpc.net/problem/2921) &nbsp; → &nbsp; [2921.cpp](2921.cpp)
 
 #### Recursion
 * [#1074](https://www.acmicpc.net/problem/1074) &nbsp; → &nbsp; [1074.cpp](1074.cpp)
 
 #### Implementation
 * [#1924](https://www.acmicpc.net/problem/1924) &nbsp; → &nbsp; [1924.cpp](1924.cpp)
+* [#2577](https://www.acmicpc.net/problem/2577) &nbsp; → &nbsp; [2577.cpp](2577.cpp)
+* [#2839](https://www.acmicpc.net/problem/2839) &nbsp; → &nbsp; [2839.cpp](2839.cpp)
+* [#2851](https://www.acmicpc.net/problem/2851) &nbsp; → &nbsp; [2851.cpp](2851.cpp)
 
 #### Brute Force
 * [#1065](https://www.acmicpc.net/problem/1065) &nbsp; → &nbsp; [1065.cpp](1065.cpp)
@@ -48,10 +60,12 @@
 * [#1213](https://www.acmicpc.net/problem/1213) &nbsp; → &nbsp; [1213.cpp](1213.cpp)
 * [#2231](https://www.acmicpc.net/problem/2231) &nbsp; → &nbsp; [2231.cpp](2231.cpp)
 * [#2309](https://www.acmicpc.net/problem/2309) &nbsp; → &nbsp; [2309.cpp](2309.cpp)
+* [#2798](https://www.acmicpc.net/problem/2798) &nbsp; → &nbsp; [2798.cpp](2798.cpp)
 
 #### Simulation
 * [#1592](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](1592.cpp)
 * [#2161](https://www.acmicpc.net/problem/2161) &nbsp; → &nbsp; [2161.cpp](2161.cpp)
+* [#2920](https://www.acmicpc.net/problem/2920) &nbsp; → &nbsp; [2920.cpp](2920.cpp)
 
 #### Euclidean algorithm
 * [#1592](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](1592.cpp)
@@ -60,6 +74,11 @@
 * [#1152](https://www.acmicpc.net/problem/1152) &nbsp; → &nbsp; [1152.cpp](1152.cpp)
 * [#1157](https://www.acmicpc.net/problem/1157) &nbsp; → &nbsp; [1157.cpp](1157.cpp)
 * [#1316](https://www.acmicpc.net/problem/1316) &nbsp; → &nbsp; [1316.cpp](1316.cpp)
+* [#2675](https://www.acmicpc.net/problem/2675) &nbsp; → &nbsp; [2675.cpp](2675.cpp)
+* [#2742](https://www.acmicpc.net/problem/2742) &nbsp; → &nbsp; [2742.cpp](2742.cpp)
+* [#2743](https://www.acmicpc.net/problem/2743) &nbsp; → &nbsp; [2743.cpp](2743.cpp)
+* [#2789](https://www.acmicpc.net/problem/2789) &nbsp; → &nbsp; [2789.cpp](2789.cpp)
+* [#2941](https://www.acmicpc.net/problem/2941) &nbsp; → &nbsp; [2941.cpp](2941.cpp)
 
 #### Search
 * [#1065](https://www.acmicpc.net/problem/1065) &nbsp; → &nbsp; [1065.cpp](1065.cpp)
@@ -67,15 +86,21 @@
 * [#1316](https://www.acmicpc.net/problem/1316) &nbsp; → &nbsp; [1316.cpp](1316.cpp)
   #### Binary Search
   * [#1920](https://www.acmicpc.net/problem/1920) &nbsp; → &nbsp; [1920.cpp](1920.cpp)
+  * [#2869](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](2869.cpp)
 
 #### Numeral System
 * [#1212](https://www.acmicpc.net/problem/1212) &nbsp; → &nbsp; [1212.cpp](1212.cpp)
 * [#1550](https://www.acmicpc.net/problem/1550) &nbsp; → &nbsp; [1550.cpp](1550.cpp)
+* [#2830](https://www.acmicpc.net/problem/2830) &nbsp; → &nbsp; [2830.cpp](2830.cpp)
+
+#### Greedy algorithm
+* [#2828](https://www.acmicpc.net/problem/2828) &nbsp; → &nbsp; [2828.cpp](2828.cpp)
 
 #### Dynamic Programming
 * [#1003](https://www.acmicpc.net/problem/1003) &nbsp; → &nbsp; [1003.cpp](1003.cpp)
 * [#1932](https://www.acmicpc.net/problem/1932) &nbsp; → &nbsp; [1932.cpp](1932.cpp)
 * [#2163](https://www.acmicpc.net/problem/2163) &nbsp; → &nbsp; [2163.cpp](2163.cpp)
+* [#2579](https://www.acmicpc.net/problem/2579) &nbsp; → &nbsp; [2579.cpp](2579.cpp)
 
 #### Data structure
 * Null
@@ -98,6 +123,8 @@
 
 #### Sort
 * [#1213](https://www.acmicpc.net/problem/1213) &nbsp; → &nbsp; [1213.cpp](1213.cpp)
+* [#2751](https://www.acmicpc.net/problem/2751) &nbsp; → &nbsp; [2751.cpp](2751.cpp)
+* [#2752](https://www.acmicpc.net/problem/2752) &nbsp; → &nbsp; [2752.cpp](2752.cpp)
 
 #### BFS
 * [#1260](https://www.acmicpc.net/problem/1260) &nbsp; → &nbsp; [1260.cpp](1260.cpp)
@@ -111,3 +138,4 @@
 
 #### Floyd-Warshall algorithm
 * [#2458](https://www.acmicpc.net/problem/2458) &nbsp; → &nbsp; [2458.cpp](2458.cpp)
+* [#2606](https://www.acmicpc.net/problem/2606) &nbsp; → &nbsp; [2606.cpp](2606.cpp)
