@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [#1408](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](1408.cpp)
@@ -27,6 +27,13 @@
 * [#2739](https://www.acmicpc.net/problem/2739) &nbsp; → &nbsp; [2739.cpp](2739.cpp)
 * [#2741](https://www.acmicpc.net/problem/2741) &nbsp; → &nbsp; [2741.cpp](2741.cpp)
 * [#2742](https://www.acmicpc.net/problem/2742) &nbsp; → &nbsp; [2742.cpp](2742.cpp)
+* [#3003](https://www.acmicpc.net/problem/3003) &nbsp; → &nbsp; [3003.cpp](3003.cpp)
+* [#7287](https://www.acmicpc.net/problem/7287) &nbsp; → &nbsp; [7287.cpp](7287.cpp)
+* [#7572](https://www.acmicpc.net/problem/7572) &nbsp; → &nbsp; [7572.cpp](7572.cpp)
+* [#8958](https://www.acmicpc.net/problem/8958) &nbsp; → &nbsp; [8958.cpp](8958.cpp)
+* [#9316](https://www.acmicpc.net/problem/9316) &nbsp; → &nbsp; [9316.cpp](9316.cpp)
+* [#9610](https://www.acmicpc.net/problem/9610) &nbsp; → &nbsp; [9610.cpp](9610.cpp)
+* [#10172](https://www.acmicpc.net/problem/10172) &nbsp; → &nbsp; [10172.cpp](10172.cpp)
 
 #### Mathematics
 * [#1000](https://www.acmicpc.net/problem/1000) &nbsp; → &nbsp; [1000.cpp](1000.cpp)
@@ -44,6 +51,11 @@
 * [#2839](https://www.acmicpc.net/problem/2839) &nbsp; → &nbsp; [2839.cpp](2839.cpp)
 * [#2869](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](2869.cpp)
 * [#2921](https://www.acmicpc.net/problem/2921) &nbsp; → &nbsp; [2921.cpp](2921.cpp)
+* [#3046](https://www.acmicpc.net/problem/3046) &nbsp; → &nbsp; [3046.cpp](3046.cpp)
+* [#4344](https://www.acmicpc.net/problem/4344) &nbsp; → &nbsp; [4344.cpp](4344.cpp)
+* [#8393](https://www.acmicpc.net/problem/8393) &nbsp; → &nbsp; [8393.cpp](8393.cpp)
+* [#8974](https://www.acmicpc.net/problem/8974) &nbsp; → &nbsp; [8974.cpp](8974.cpp)
+* [#10430](https://www.acmicpc.net/problem/10430) &nbsp; → &nbsp; [10430.cpp](10430.cpp)
 
 #### Recursion
 * [#1074](https://www.acmicpc.net/problem/1074) &nbsp; → &nbsp; [1074.cpp](1074.cpp)
@@ -53,6 +65,10 @@
 * [#2577](https://www.acmicpc.net/problem/2577) &nbsp; → &nbsp; [2577.cpp](2577.cpp)
 * [#2839](https://www.acmicpc.net/problem/2839) &nbsp; → &nbsp; [2839.cpp](2839.cpp)
 * [#2851](https://www.acmicpc.net/problem/2851) &nbsp; → &nbsp; [2851.cpp](2851.cpp)
+* [#5565](https://www.acmicpc.net/problem/5565) &nbsp; → &nbsp; [5565.cpp](5565.cpp)
+* [#5597](https://www.acmicpc.net/problem/5597) &nbsp; → &nbsp; [5597.cpp](5597.cpp)
+* [#9498](https://www.acmicpc.net/problem/9498) &nbsp; → &nbsp; [9498.cpp](9498.cpp)
+* [#10039](https://www.acmicpc.net/problem/10039) &nbsp; → &nbsp; [10039.cpp](10039.cpp)
 
 #### Brute Force
 * [#1065](https://www.acmicpc.net/problem/1065) &nbsp; → &nbsp; [1065.cpp](1065.cpp)
@@ -66,6 +82,12 @@
 * [#1592](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](1592.cpp)
 * [#2161](https://www.acmicpc.net/problem/2161) &nbsp; → &nbsp; [2161.cpp](2161.cpp)
 * [#2920](https://www.acmicpc.net/problem/2920) &nbsp; → &nbsp; [2920.cpp](2920.cpp)
+* [#2979](https://www.acmicpc.net/problem/2979) &nbsp; → &nbsp; [2979.cpp](2979.cpp)
+* [#5397](https://www.acmicpc.net/problem/5397) &nbsp; → &nbsp; [5397.cpp](5397.cpp)
+* [#10158](https://www.acmicpc.net/problem/10158) &nbsp; → &nbsp; [10158.cpp](10158.cpp)
+
+#### Sieve of Eratosthenes
+* [#4673](https://www.acmicpc.net/problem/4673) &nbsp; → &nbsp; [4673.cpp](4673.cpp)
 
 #### Euclidean algorithm
 * [#1592](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](1592.cpp)
@@ -79,6 +101,8 @@
 * [#2743](https://www.acmicpc.net/problem/2743) &nbsp; → &nbsp; [2743.cpp](2743.cpp)
 * [#2789](https://www.acmicpc.net/problem/2789) &nbsp; → &nbsp; [2789.cpp](2789.cpp)
 * [#2941](https://www.acmicpc.net/problem/2941) &nbsp; → &nbsp; [2941.cpp](2941.cpp)
+* [#4999](https://www.acmicpc.net/problem/4999) &nbsp; → &nbsp; [4999.cpp](4999.cpp)
+* [#5622](https://www.acmicpc.net/problem/5622) &nbsp; → &nbsp; [5622.cpp](5622.cpp)
 
 #### Search
 * [#1065](https://www.acmicpc.net/problem/1065) &nbsp; → &nbsp; [1065.cpp](1065.cpp)
@@ -101,15 +125,18 @@
 * [#1932](https://www.acmicpc.net/problem/1932) &nbsp; → &nbsp; [1932.cpp](1932.cpp)
 * [#2163](https://www.acmicpc.net/problem/2163) &nbsp; → &nbsp; [2163.cpp](2163.cpp)
 * [#2579](https://www.acmicpc.net/problem/2579) &nbsp; → &nbsp; [2579.cpp](2579.cpp)
+* [#9095](https://www.acmicpc.net/problem/9095) &nbsp; → &nbsp; [9095.cpp](9095.cpp)
 
 #### Data structure
 * Null
 
 #### Linked List
 * [#1158](https://www.acmicpc.net/problem/1158) &nbsp; → &nbsp; [1158.cpp](1158.cpp)
+* [#5397](https://www.acmicpc.net/problem/5397) &nbsp; → &nbsp; [5397.cpp](5397.cpp)
 
 #### Stack
 * [#1725](https://www.acmicpc.net/problem/1725) &nbsp; → &nbsp; [1725.cpp](1725.cpp)
+* [#5397](https://www.acmicpc.net/problem/5397) &nbsp; → &nbsp; [5397.cpp](5397.cpp)
 
 #### Tree
 * Null
