@@ -138,6 +138,7 @@
   #### Binary Search
   * [1920번: 수 찾기](https://www.acmicpc.net/problem/1920) &nbsp; → &nbsp; [1920.cpp](1920.cpp)
   * [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](2869.cpp)
+  * [10815번: 숫자 카드](https://www.acmicpc.net/problem/10815) &nbsp; → &nbsp; [10815.cpp](10815.cpp)
 
 #### Numeral System
 * [1212번: 8진수 2진수](https://www.acmicpc.net/problem/1212) &nbsp; → &nbsp; [1212.cpp](1212.cpp)
@@ -151,11 +152,13 @@
 
 #### Dynamic Programming
 * [1003번: 피보나치 함수](https://www.acmicpc.net/problem/1003) &nbsp; → &nbsp; [1003.cpp](1003.cpp)
+* [1149번: RGB거리](https://www.acmicpc.net/problem/1149) &nbsp; → &nbsp; [1149.cpp](1149.cpp)
 * [1932번: 정수 삼각형](https://www.acmicpc.net/problem/1932) &nbsp; → &nbsp; [1932.cpp](1932.cpp)
 * [2163번: 초콜릿 자르기](https://www.acmicpc.net/problem/2163) &nbsp; → &nbsp; [2163.cpp](2163.cpp)
 * [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579) &nbsp; → &nbsp; [2579.cpp](2579.cpp)
 * [9095번: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) &nbsp; → &nbsp; [9095.cpp](9095.cpp)
-* [11726번: 2×n 타일링 ](https://www.acmicpc.net/problem/11726) &nbsp; → &nbsp; [11726.cpp](11726.cpp)
+* [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) &nbsp; → &nbsp; [11053.cpp](11053.cpp)
+* [11726번: 2×n 타일링](https://www.acmicpc.net/problem/11726) &nbsp; → &nbsp; [11726.cpp](11726.cpp)
 
 #### Linked List
 * [1158번: 조세퍼스 문제](https://www.acmicpc.net/problem/1158) &nbsp; → &nbsp; [1158.cpp](1158.cpp)
