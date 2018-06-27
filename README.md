@@ -152,9 +152,11 @@
 
 #### Dynamic Programming
 * [1003번: 피보나치 함수](https://www.acmicpc.net/problem/1003) &nbsp; → &nbsp; [1003.cpp](1003.cpp)
+* [1010번: 다리 놓기](https://www.acmicpc.net/problem/1010) &nbsp; → &nbsp; [1010.cpp](1010.cpp)
 * [1149번: RGB거리](https://www.acmicpc.net/problem/1149) &nbsp; → &nbsp; [1149.cpp](1149.cpp)
 * [1932번: 정수 삼각형](https://www.acmicpc.net/problem/1932) &nbsp; → &nbsp; [1932.cpp](1932.cpp)
 * [2163번: 초콜릿 자르기](https://www.acmicpc.net/problem/2163) &nbsp; → &nbsp; [2163.cpp](2163.cpp)
+* [2193번: 이친수](https://www.acmicpc.net/problem/2193) &nbsp; → &nbsp; [2193.cpp](2193.cpp)
 * [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579) &nbsp; → &nbsp; [2579.cpp](2579.cpp)
 * [9095번: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) &nbsp; → &nbsp; [9095.cpp](9095.cpp)
 * [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) &nbsp; → &nbsp; [11053.cpp](11053.cpp)
