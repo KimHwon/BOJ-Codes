@@ -142,10 +142,12 @@
   * [10815번: 숫자 카드](https://www.acmicpc.net/problem/10815) &nbsp; → &nbsp; [10815.cpp](10815.cpp)
   
 #### KMP algorithm
-* [1701번: Cubeditor](https://www.acmicpc.net/problem/1701번) &nbsp; → &nbsp; [1701번.cpp](1701번.cpp)
+* [1305번: 광고](https://www.acmicpc.net/problem/1305) &nbsp; → &nbsp; [1305.cpp](1305.cpp)
+* [1701번: Cubeditor](https://www.acmicpc.net/problem/1701) &nbsp; → &nbsp; [1701.cpp](1701.cpp)
 * [1786번: 찾기](https://www.acmicpc.net/problem/1786) &nbsp; → &nbsp; [1786.cpp](1786.cpp)
 * [4354번: 문자열 제곱](https://www.acmicpc.net/problem/4354) &nbsp; → &nbsp; [4354.cpp](4354.cpp)
 * [5525번: IOIOI](https://www.acmicpc.net/problem/5525) &nbsp; → &nbsp; [5525.cpp](5525.cpp)
+* [10266번: 시계 사진들](https://www.acmicpc.net/problem/10266) &nbsp; → &nbsp; [10266.cpp](10266.cpp)
 
 #### Numeral System
 * [1212번: 8진수 2진수](https://www.acmicpc.net/problem/1212) &nbsp; → &nbsp; [1212.cpp](1212.cpp)
