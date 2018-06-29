@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [1408번: 24](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](1408.cpp)
@@ -141,7 +141,7 @@
   * [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](2869.cpp)
   * [10815번: 숫자 카드](https://www.acmicpc.net/problem/10815) &nbsp; → &nbsp; [10815.cpp](10815.cpp)
   
-### KMP algorithm
+#### KMP algorithm
 * [1701번: Cubeditor](https://www.acmicpc.net/problem/1701번) &nbsp; → &nbsp; [1701번.cpp](1701번.cpp)
 * [1786번: 찾기](https://www.acmicpc.net/problem/1786) &nbsp; → &nbsp; [1786.cpp](1786.cpp)
 * [4354번: 문자열 제곱](https://www.acmicpc.net/problem/4354) &nbsp; → &nbsp; [4354.cpp](4354.cpp)
