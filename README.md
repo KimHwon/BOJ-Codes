@@ -130,6 +130,7 @@
 * [5622번: 다이얼](https://www.acmicpc.net/problem/5622) &nbsp; → &nbsp; [5622.cpp](5622.cpp)
 * [10809번: 알파벳 찾기](https://www.acmicpc.net/problem/10809) &nbsp; → &nbsp; [10809.cpp](10809.cpp)
 * [11654번: 아스키 코드](https://www.acmicpc.net/problem/11654) &nbsp; → &nbsp; [11654.cpp](11654.cpp)
+* [11656번: 접미사 배열](https://www.acmicpc.net/problem/11656) &nbsp; → &nbsp; [11656.cpp](11656.cpp)
 * [11784번: Hex Code](https://www.acmicpc.net/problem/11784) &nbsp; → &nbsp; [11784.cpp](11784.cpp)
 
 #### Search
