@@ -9,19 +9,19 @@ char dic[127];
 
 int kmp(string str, vector<char> pttn)
 {
-	vector<int> jmp(pttn.size(), 0);
+	vector<int> pi(pttn.size(), 0);
 
 	int eq = 0;
 	for (int i = 1; i < pttn.size(); ++i)
 	{
 		while (eq && pttn[i] != pttn[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (pttn[i] == pttn[eq])
 		{
 			++eq;
-			jmp[i] = eq;
+			pi[i] = eq;
 		}
 	}
 
@@ -30,7 +30,7 @@ int kmp(string str, vector<char> pttn)
 	{
 		while (eq && str[i] != pttn[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (str[i] == pttn[eq])
 		{
@@ -40,7 +40,7 @@ int kmp(string str, vector<char> pttn)
 			{
 				++cnt;
 
-				eq = jmp[eq - 1];
+				eq = pi[eq - 1];
 			}
 		}
 	}
