@@ -15,25 +15,25 @@ int main()
 
 	cin >> x >> str;
 
-	vector<int> jmp(str.size(), 0);
+	vector<int> pi(str.size(), 0);
 
 	int eq = 0;
 	for (int i = 1; i < str.size(); ++i)
 	{
 		while (eq && str[i] != str[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (str[i] == str[eq])
 		{
 			++eq;
-			jmp[i] = eq;
+			pi[i] = eq;
 		}
 	}
 
 	// KMP pattern == 광고가 반복되어 나타난 부분
 	// L - patternLength == 광고의 길이
-	cout << str.size() - jmp.back();
+	cout << str.size() - pi.back();
 
 	return 0;
 }
