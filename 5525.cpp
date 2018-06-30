@@ -52,7 +52,7 @@ int main()
 			{
 				++cnt;
 
-				eq = jmp[eq - 1];
+				eq = pi[eq - 1];
 			}
 		}
 	}
