@@ -150,6 +150,7 @@
 * [5525번: IOIOI](https://www.acmicpc.net/problem/5525) &nbsp; → &nbsp; [5525.cpp](5525.cpp)
 * [10266번: 시계 사진들](https://www.acmicpc.net/problem/10266) &nbsp; → &nbsp; [10266.cpp](10266.cpp)
 * [11585번: 속타는 저녁 메뉴](https://www.acmicpc.net/problem/11585) &nbsp; → &nbsp; [11585.cpp](11585.cpp)
+* [12104번: 순환 순열](https://www.acmicpc.net/problem/12104) &nbsp; → &nbsp; [12104.cpp](12104.cpp)
 
 #### Numeral System
 * [1212번: 8진수 2진수](https://www.acmicpc.net/problem/1212) &nbsp; → &nbsp; [1212.cpp](1212.cpp)
