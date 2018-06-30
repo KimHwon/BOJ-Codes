@@ -41,19 +41,19 @@ int main()
 	}
 
 	// KMP Search
-	vector<int> jmp(N);
+	vector<int> pi(N);
 	int eq = 0;
 	for (int i = 1; i < N; ++i)
 	{
 		while (eq > 0 && str1[eq] != str1[i])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (str1[eq] == str1[i])
 		{
 			++eq;
 		}
-		jmp[i] = eq;
+		pi[i] = eq;
 	}
 
 	int cnt = 0; eq = 0;
@@ -61,7 +61,7 @@ int main()
 	{
 		while (eq && str1[i] != str2[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (str1[i] == str2[eq])
 		{
@@ -71,7 +71,7 @@ int main()
 			{
 				++cnt;
 
-				eq = jmp[eq - 1];
+				eq = pi[eq - 1];
 			}
 		}
 	}
