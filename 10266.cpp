@@ -54,18 +54,18 @@ int main()
 	}
 
 	// KMP Search
-	vector<int> jmp(dh2.size(), 0);
+	vector<int> pi(dh2.size(), 0);
 	int eq = 0;
 	for (int i = 1; i < dh2.size(); ++i)
 	{
 		while (eq && dh2[i] != dh2[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (dh2[i] == dh2[eq])
 		{
 			++eq;
-			jmp[i] = eq;
+			pi[i] = eq;
 		}
 	}
 
@@ -74,7 +74,7 @@ int main()
 	{
 		while (eq && dh1[i] != dh2[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (dh1[i] == dh2[eq])
 		{
