@@ -21,19 +21,19 @@ int main()
 		pttn.push_back('I');
 	}
 
-	vector<int> jmp(pttn.size(), 0);
+	vector<int> pi(pttn.size(), 0);
 
 	int eq = 0;
 	for (int i = 1; i < pttn.size(); ++i)
 	{
 		while (eq && pttn[i] != pttn[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (pttn[i] == pttn[eq])
 		{
 			++eq;
-			jmp[i] = eq;
+			pi[i] = eq;
 		}
 	}
 
@@ -42,7 +42,7 @@ int main()
 	{
 		while (eq && str[i] != pttn[eq])
 		{
-			eq = jmp[eq - 1];
+			eq = pi[eq - 1];
 		}
 		if (str[i] == pttn[eq])
 		{
