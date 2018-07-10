@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Segment Tree](#segment-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [1408번: 24](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](1408.cpp)
@@ -193,6 +193,11 @@
 
   #### Binary Tree
   * [1967번: 트리의 지름](https://www.acmicpc.net/problem/1967) &nbsp; → &nbsp; [1967.cpp](1967.cpp)
+  
+  #### Segment Tree
+  * [2042번: 구간 합 구하기](https://www.acmicpc.net/problem/2042) &nbsp; → &nbsp; [2042.cpp](2042.cpp)
+  * [2357번: 최소값과 최대값](https://www.acmicpc.net/problem/2357) &nbsp; → &nbsp; [2357.cpp](2357.cpp)
+  * [10868번: 최소값](https://www.acmicpc.net/problem/10868) &nbsp; → &nbsp; [10868.cpp](10868.cpp)
 
 #### Graph
 * [10864번: 친구](https://www.acmicpc.net/problem/10864) &nbsp; → &nbsp; [10864.cpp](10864.cpp)
