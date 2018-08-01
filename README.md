@@ -165,7 +165,10 @@
 * [14915번: 진수 변환기](https://www.acmicpc.net/problem/14915) &nbsp; → &nbsp; [14915.cpp](14915.cpp)
 
 #### Greedy algorithm
+* [1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541) &nbsp; → &nbsp; [1541.cpp](1541.cpp)
 * [2828번: 사과 담기 게임](https://www.acmicpc.net/problem/2828) &nbsp; → &nbsp; [2828.cpp](2828.cpp)
+* [11047번: 동전 0](https://www.acmicpc.net/problem/11047) &nbsp; → &nbsp; [11047.cpp](11047.cpp)
+* [11399번: ATM](https://www.acmicpc.net/problem/11399) &nbsp; → &nbsp; [11399.cpp](11399.cpp)
 
 #### Dynamic Programming
 * [1003번: 피보나치 함수](https://www.acmicpc.net/problem/1003) &nbsp; → &nbsp; [1003.cpp](1003.cpp)
