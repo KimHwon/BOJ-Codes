@@ -165,8 +165,15 @@
 * [14915번: 진수 변환기](https://www.acmicpc.net/problem/14915) &nbsp; → &nbsp; [14915.cpp](14915.cpp)
 
 #### Greedy algorithm
+* [1080번: 행렬](https://www.acmicpc.net/problem/1080) &nbsp; → &nbsp; [1080.cpp](1080.cpp)
+* [1201번: NMK](https://www.acmicpc.net/problem/1201) &nbsp; → &nbsp; [1201.cpp](1201.cpp)
 * [1541번: 잃어버린 괄호](https://www.acmicpc.net/problem/1541) &nbsp; → &nbsp; [1541.cpp](1541.cpp)
+* [1744번: 수 묶기](https://www.acmicpc.net/problem/1744) &nbsp; → &nbsp; [1744.cpp](1744.cpp)
+* [1783번: 병든 나이트](https://www.acmicpc.net/problem/1783) &nbsp; → &nbsp; [1783.cpp](1783.cpp)
+* [1931번: 회의실배정](https://www.acmicpc.net/problem/1931) &nbsp; → &nbsp; [1931.cpp](1931.cpp)
 * [2828번: 사과 담기 게임](https://www.acmicpc.net/problem/2828) &nbsp; → &nbsp; [2828.cpp](2828.cpp)
+* [2875번: 대회 or 인턴](https://www.acmicpc.net/problem/2875) &nbsp; → &nbsp; [2875.cpp](2875.cpp)
+* [10610번: 30](https://www.acmicpc.net/problem/10610) &nbsp; → &nbsp; [10610.cpp](10610.cpp)
 * [11047번: 동전 0](https://www.acmicpc.net/problem/11047) &nbsp; → &nbsp; [11047.cpp](11047.cpp)
 * [11399번: ATM](https://www.acmicpc.net/problem/11399) &nbsp; → &nbsp; [11399.cpp](11399.cpp)
 
