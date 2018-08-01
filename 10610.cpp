@@ -21,7 +21,7 @@ int main()
 		charsum += c - '0';
 	}
 
-	// !(3ÀÇ ¹è¼ö && 10ÀÇ ¹è¼ö)
+	// !(3ì˜ ë°°ìˆ˜ && 10ì˜ ë°°ìˆ˜)
 	if (charsum % 3 || nums[0] == 0)
 	{
 		cout << -1;
@@ -29,7 +29,7 @@ int main()
 		return 0;
 	}
 
-	// Å« ¼öºÎÅÍ push_back
+	// í° ìˆ˜ë¶€í„° push_back
 	string max = "";
 	for (int i = 9; i >= 0; --i)
 	{
