@@ -8,16 +8,16 @@ using namespace std;
 ull H, W;
 
 /* i) H = 1
- *		¸ø ¿òÁ÷ÀÓ
+ *		ëª» ì›€ì§ìž„
  * ii) H = 2
  *		min(3, (w - 1) / 2) + 1
- *		URR ¿òÁ÷ÀÓÀÌ³ª DRR ¿òÁ÷ÀÓ¸¸ °¡´ÉÇÏ¹Ç·Î 4È¸ ÀÌ»ó ¿òÁ÷ÀÏ ¼ö ¾øÀ½
+ *		URR ì›€ì§ìž„ì´ë‚˜ DRR ì›€ì§ìž„ë§Œ ê°€ëŠ¥í•˜ë¯€ë¡œ 4íšŒ ì´ìƒ ì›€ì§ì¼ ìˆ˜ ì—†ìŒ
  * iii) H >= 3
- *		H¿¡ ÀÇÇÑ Á¦¾àÀÌ ¾ø´Ù - W·Î °áÁ¤µÊ
+ *		Hì— ì˜í•œ ì œì•½ì´ ì—†ë‹¤ - Wë¡œ ê²°ì •ë¨
  *		j) W >= 7
- *			cycleÀÌ °¡´ÉÇÒ ¶§, W-3 È¸ ¿òÁ÷ÀÎ´Ù (±Í³³Àû ÇØ¼®)
+ *			cycleì´ ê°€ëŠ¥í•  ë•Œ, W-3 íšŒ ì›€ì§ì¸ë‹¤ (ê·€ë‚©ì  í•´ì„)
  *		jj) W < 7
- *			4°¡Áö ¿òÁ÷ÀÓÀ» »ç¿ëÇÏ´Â cycleÀÌ ºÒ°¡´É ÇÒ ¶§, 4È¸ ÀÌ»ó ¿òÁ÷ÀÏ ¼ö ¾øÀ½
+ *			4ê°€ì§€ ì›€ì§ìž„ì„ ì‚¬ìš©í•˜ëŠ” cycleì´ ë¶ˆê°€ëŠ¥ í•  ë•Œ, 4íšŒ ì´ìƒ ì›€ì§ì¼ ìˆ˜ ì—†ìŒ
  */
 
 int main()
