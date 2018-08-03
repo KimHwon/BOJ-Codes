@@ -3,6 +3,8 @@
 
 # User-define Script
 *.sh
+*.exe
+*.txt
 
 # Visual Studio Project files
 Debug/
