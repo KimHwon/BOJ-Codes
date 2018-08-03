@@ -173,6 +173,7 @@
 * [1783번: 병든 나이트](https://www.acmicpc.net/problem/1783) &nbsp; → &nbsp; [1783.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1783.cpp)
 * [1931번: 회의실배정](https://www.acmicpc.net/problem/1931) &nbsp; → &nbsp; [1931.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1931.cpp)
 * [2828번: 사과 담기 게임](https://www.acmicpc.net/problem/2828) &nbsp; → &nbsp; [2828.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2828.cpp)
+* [2873번: 롤러코스터](https://www.acmicpc.net/problem/2873) &nbsp; → &nbsp; [2873.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2873.cpp)
 * [2875번: 대회 or 인턴](https://www.acmicpc.net/problem/2875) &nbsp; → &nbsp; [2875.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2875.cpp)
 * [10610번: 30](https://www.acmicpc.net/problem/10610) &nbsp; → &nbsp; [10610.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10610.cpp)
 * [11047번: 동전 0](https://www.acmicpc.net/problem/11047) &nbsp; → &nbsp; [11047.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11047.cpp)
