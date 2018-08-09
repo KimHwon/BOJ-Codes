@@ -74,10 +74,10 @@
 * [15894번: 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) &nbsp; → &nbsp; [15894.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15894.cpp)
 
   #### Sieve of Eratosthenes
-* [4673번: 셀프 넘버](https://www.acmicpc.net/problem/4673) &nbsp; → &nbsp; [4673.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/4673.cpp)
+  * [4673번: 셀프 넘버](https://www.acmicpc.net/problem/4673) &nbsp; → &nbsp; [4673.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/4673.cpp)
   
   #### Euclidean algorithm
-* [1592번: 영식이와 친구들](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1592.cpp)
+  * [1592번: 영식이와 친구들](https://www.acmicpc.net/problem/1592) &nbsp; → &nbsp; [1592.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1592.cpp)
 
 #### Recursion
 * [1074번: Z](https://www.acmicpc.net/problem/1074) &nbsp; → &nbsp; [1074.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1074.cpp)
@@ -141,9 +141,9 @@
 * [1145번: 적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) &nbsp; → &nbsp; [1145.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1145.cpp)
 * [1316번: 그룹 단어 체커](https://www.acmicpc.net/problem/1316) &nbsp; → &nbsp; [1316.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1316.cpp)
   #### Binary Search
-* [1920번: 수 찾기](https://www.acmicpc.net/problem/1920) &nbsp; → &nbsp; [1920.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1920.cpp)
-* [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2869.cpp)
-* [10815번: 숫자 카드](https://www.acmicpc.net/problem/10815) &nbsp; → &nbsp; [10815.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10815.cpp)
+  * [1920번: 수 찾기](https://www.acmicpc.net/problem/1920) &nbsp; → &nbsp; [1920.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1920.cpp)
+  * [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) &nbsp; → &nbsp; [2869.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2869.cpp)
+  * [10815번: 숫자 카드](https://www.acmicpc.net/problem/10815) &nbsp; → &nbsp; [10815.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10815.cpp)
   
 #### KMP algorithm
 * [1305번: 광고](https://www.acmicpc.net/problem/1305) &nbsp; → &nbsp; [1305.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1305.cpp)
@@ -207,12 +207,12 @@
 * [15900번: 나무 탈출](https://www.acmicpc.net/problem/15900) &nbsp; → &nbsp; [15900.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15900.cpp)
 
   #### Binary Tree
-* [1967번: 트리의 지름](https://www.acmicpc.net/problem/1967) &nbsp; → &nbsp; [1967.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1967.cpp)
+  * [1967번: 트리의 지름](https://www.acmicpc.net/problem/1967) &nbsp; → &nbsp; [1967.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1967.cpp)
   
   #### Segment Tree
-* [2042번: 구간 합 구하기](https://www.acmicpc.net/problem/2042) &nbsp; → &nbsp; [2042.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2042.cpp)
-* [2357번: 최소값과 최대값](https://www.acmicpc.net/problem/2357) &nbsp; → &nbsp; [2357.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2357.cpp)
-* [10868번: 최소값](https://www.acmicpc.net/problem/10868) &nbsp; → &nbsp; [10868.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10868.cpp)
+  * [2042번: 구간 합 구하기](https://www.acmicpc.net/problem/2042) &nbsp; → &nbsp; [2042.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2042.cpp)
+  * [2357번: 최소값과 최대값](https://www.acmicpc.net/problem/2357) &nbsp; → &nbsp; [2357.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2357.cpp)
+  * [10868번: 최소값](https://www.acmicpc.net/problem/10868) &nbsp; → &nbsp; [10868.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10868.cpp)
 
 #### Graph
 * [10864번: 친구](https://www.acmicpc.net/problem/10864) &nbsp; → &nbsp; [10864.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10864.cpp)
@@ -236,6 +236,9 @@
 #### DFS
 * [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260) &nbsp; → &nbsp; [1260.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1260.cpp)
 * [15900번: 나무 탈출](https://www.acmicpc.net/problem/15900) &nbsp; → &nbsp; [15900.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15900.cpp)
+
+  #### Cycle detection
+  * [9466번: 텀 프로젝트](https://www.acmicpc.net/problem/9466) &nbsp; → &nbsp; [9466.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9466.cpp)
 
 #### Network flow
 * [2188번: 축사 배정](https://www.acmicpc.net/problem/2188) &nbsp; → &nbsp; [2188.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2188.cpp)
