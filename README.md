@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Segment Tree](#segment-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](dfs) &nbsp; [Network flow](#network-flow) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Segment Tree](#segment-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](#dfs) &nbsp; [Cycle detection](#cycle-detection) &nbsp; [Network flow](#network-flow) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [1408번: 24](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1408.cpp)
@@ -205,6 +205,7 @@
 
 #### Tree
 * [15900번: 나무 탈출](https://www.acmicpc.net/problem/15900) &nbsp; → &nbsp; [15900.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15900.cpp)
+* [14675번: 단절점과 단절선](https://www.acmicpc.net/problem/14675) &nbsp; → &nbsp; [14675.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14675.cpp)
 
   #### Binary Tree
   * [1967번: 트리의 지름](https://www.acmicpc.net/problem/1967) &nbsp; → &nbsp; [1967.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1967.cpp)
@@ -240,6 +241,13 @@
   #### Cycle detection
   * [9466번: 텀 프로젝트](https://www.acmicpc.net/problem/9466) &nbsp; → &nbsp; [9466.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9466.cpp)
 
+  #### Articulation Point
+  * [11266번: 단절점](https://www.acmicpc.net/problem/11266) &nbsp; → &nbsp; [11266.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11266.cpp)
+  
+  #### Bridge
+  * [11400: 단절선](https://www.acmicpc.net/problem/11400) &nbsp; → &nbsp; [11400.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11400.cpp)
+  
+  
 #### Network flow
 * [2188번: 축사 배정](https://www.acmicpc.net/problem/2188) &nbsp; → &nbsp; [2188.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2188.cpp)
 * [11375번: 열혈강호](https://www.acmicpc.net/problem/11375) &nbsp; → &nbsp; [11375.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11375.cpp)
