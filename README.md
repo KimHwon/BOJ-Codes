@@ -6,7 +6,7 @@
 
 ## Category
 
-> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Segment Tree](#segment-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](#dfs) &nbsp; [Cycle detection](#cycle-detection) &nbsp; [Network flow](#network-flow) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
+> [IO](#io) &nbsp; [Mathematics](#mathematics) &nbsp; [Sieve of Eratosthenes](sieve-of-eratosthenes) &nbsp; [Euclidean algorithm](#euclidean-algorithm) &nbsp; [Geometry algorithm](#geometry-algorithm) &nbsp; [Recursion](#recursion) &nbsp; [Implementation](#implementation) &nbsp; [Brute Force](#brute-force) &nbsp; [Simulation](#simulation) &nbsp; [String processing](#string-processing) &nbsp; [Search](#search) &nbsp; [Binary Search](#binary-search) &nbsp; [KMP algorithm](#kmp-algorithm) &nbsp; [Numeral system](#numberal-system) &nbsp; [Greedy algorithm](#greedy-algorithm) &nbsp; [Dynamic Programming](#dynamic-programming) &nbsp; [Linked List](#linked-list) &nbsp; [Stack](#stack) &nbsp; [Queue](#queue) &nbsp; [Tree](#tree) &nbsp; [Binary Tree](#binary-tree) &nbsp; [Segment Tree](#segment-tree) &nbsp; [Graph](#graph) &nbsp; [Divide and Conquer](#divide-and-conquer) &nbsp; [Sort](#sort) &nbsp; [BFS](#bfs) &nbsp; [DFS](#dfs) &nbsp; [Cycle detection](#cycle-detection) &nbsp; [Network flow](#network-flow) &nbsp; [Dijkstra algorithm](#dijkstra-algorithm) &nbsp; [Floyd-Warshall algorithm](#floyd-warshall-algorithm)
 
 #### IO
 * [1408번: 24](https://www.acmicpc.net/problem/1408) &nbsp; → &nbsp; [1408.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1408.cpp)
@@ -81,6 +81,8 @@
 
 #### Geometry algorithm
   * [1002번: 터렛](https://www.acmicpc.net/problem/1002) &nbsp; → &nbsp; [1002.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1002.cpp)
+  * [1069번: 집으로](https://www.acmicpc.net/problem/1069) &nbsp; → &nbsp; [1069.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1069.cpp)
+  * [2261번: 가장 가까운 두 점](https://www.acmicpc.net/problem/2261) &nbsp; → &nbsp; [2261.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2261.cpp)
  
 #### Recursion
 * [1074번: Z](https://www.acmicpc.net/problem/1074) &nbsp; → &nbsp; [1074.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1074.cpp)
