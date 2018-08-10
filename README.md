@@ -82,7 +82,9 @@
 #### Geometry algorithm
   * [1002번: 터렛](https://www.acmicpc.net/problem/1002) &nbsp; → &nbsp; [1002.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1002.cpp)
   * [1069번: 집으로](https://www.acmicpc.net/problem/1069) &nbsp; → &nbsp; [1069.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1069.cpp)
+  * [1485번: 정사각형](https://www.acmicpc.net/problem/1485) &nbsp; → &nbsp; [1485.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1485.cpp)
   * [2261번: 가장 가까운 두 점](https://www.acmicpc.net/problem/2261) &nbsp; → &nbsp; [2261.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2261.cpp)
+  * [5629번: 가장 가까운 두 점의 거리](https://www.acmicpc.net/problem/5629) &nbsp; → &nbsp; [5629.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/5629.cpp)
  
 #### Recursion
 * [1074번: Z](https://www.acmicpc.net/problem/1074) &nbsp; → &nbsp; [1074.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1074.cpp)
