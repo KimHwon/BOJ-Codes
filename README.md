@@ -109,6 +109,7 @@
 * [10818번: 최소, 최대](https://www.acmicpc.net/problem/10818) &nbsp; → &nbsp; [10818.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10818.cpp)
 * [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871) &nbsp; → &nbsp; [10871.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10871.cpp)
 * [10886번: 0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) &nbsp; → &nbsp; [10886.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10886.cpp)
+* [13484번: Tarifa](https://www.acmicpc.net/problem/13484) &nbsp; → &nbsp; [13484.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13484.cpp)
 * [14919번: 분포표 만들기](https://www.acmicpc.net/problem/14919) &nbsp; → &nbsp; [14919.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14919.cpp)
 * [15667번: 2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) &nbsp; → &nbsp; [15667.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15667.cpp)
 
@@ -130,6 +131,7 @@
 * [10158번: 개미](https://www.acmicpc.net/problem/10158) &nbsp; → &nbsp; [10158.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10158.cpp)
 * [11170번: 0의 개수](https://www.acmicpc.net/problem/11170) &nbsp; → &nbsp; [11170.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11170.cpp)
 * [11795번: Donation Packaging](https://www.acmicpc.net/problem/11795) &nbsp; → &nbsp; [11795.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11795.cpp)
+* [13485번: Jetpack](https://www.acmicpc.net/problem/13485) &nbsp; → &nbsp; [13485.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13485.cpp)
 * [14920번: 3n+1 수열](https://www.acmicpc.net/problem/14920) &nbsp; → &nbsp; [14920.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14920.cpp)
 
 #### String processing
@@ -251,6 +253,7 @@
 #### BFS
 * [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260) &nbsp; → &nbsp; [1260.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1260.cpp)
 * [1967번: 트리의 지름](https://www.acmicpc.net/problem/1967) &nbsp; → &nbsp; [1967.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1967.cpp)
+* [13485번: Jetpack](https://www.acmicpc.net/problem/13485) &nbsp; → &nbsp; [13485.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13485.cpp)
 
 #### DFS
 * [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260) &nbsp; → &nbsp; [1260.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1260.cpp)
