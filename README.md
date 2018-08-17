@@ -146,6 +146,7 @@
 * [11170번: 0의 개수](https://www.acmicpc.net/problem/11170) &nbsp; → &nbsp; [11170.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11170.cpp)
 * [11795번: Donation Packaging](https://www.acmicpc.net/problem/11795) &nbsp; → &nbsp; [11795.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11795.cpp)
 * [13485번: Jetpack](https://www.acmicpc.net/problem/13485) &nbsp; → &nbsp; [13485.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13485.cpp)
+* [13940번: Pohlepko](https://www.acmicpc.net/problem/13940) &nbsp; → &nbsp; [13940.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13940.cpp)
 * [14920번: 3n+1 수열](https://www.acmicpc.net/problem/14920) &nbsp; → &nbsp; [14920.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14920.cpp)
 
 #### String processing
@@ -168,6 +169,7 @@
 * [11784번: Hex Code](https://www.acmicpc.net/problem/11784) &nbsp; → &nbsp; [11784.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11784.cpp)
 * [12400번: Google語스](https://www.acmicpc.net/problem/12400) &nbsp; → &nbsp; [12400.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/12400.cpp)
 * [12840번: 창용이의 시계](https://www.acmicpc.net/problem/12840) &nbsp; → &nbsp; [12840.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/12840.cpp)
+* [13939번: Imena](https://www.acmicpc.net/problem/13939) &nbsp; → &nbsp; [13939.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13939.cpp)
 * [15904번: UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) &nbsp; → &nbsp; [15904.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15904.cpp)
 
 #### Search
