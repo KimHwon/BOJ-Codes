@@ -33,6 +33,7 @@
 * [8958번: OX퀴즈](https://www.acmicpc.net/problem/8958) &nbsp; → &nbsp; [8958.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/8958.cpp)
 * [9316번: Hello Judge](https://www.acmicpc.net/problem/9316) &nbsp; → &nbsp; [9316.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9316.cpp)
 * [9610번: 사분면](https://www.acmicpc.net/problem/9610) &nbsp; → &nbsp; [9610.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9610.cpp)
+* [9987번: 포켓몬 마스터](https://www.acmicpc.net/problem/9987) &nbsp; → &nbsp; [9987.html](9987.html)
 * [10172번: 개](https://www.acmicpc.net/problem/10172) &nbsp; → &nbsp; [10172.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10172.cpp)
 * [10699번: 오늘 날짜](https://www.acmicpc.net/problem/10699) &nbsp; → &nbsp; [10699.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10699.cpp)
 * [10718번: We love kriii](https://www.acmicpc.net/problem/10718) &nbsp; → &nbsp; [10718.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10718.cpp)
