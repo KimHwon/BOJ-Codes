@@ -24,8 +24,9 @@ int main(void)
 
 	for (string s : lists)
 	{
-		auto f = s.find(str);
-		if (f == 0 && s.size() > str.size())
+		auto pos = s.find(str);
+		// equal at 0 && longer (can press more keys)
+		if (pos == 0 && s.size() > str.size())
 		{
 			ena[s[str.size()] - 62] = true;
 		}

@@ -124,6 +124,8 @@
 * [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871) &nbsp; → &nbsp; [10871.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10871.cpp)
 * [10886번: 0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) &nbsp; → &nbsp; [10886.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10886.cpp)
 * [13484번: Tarifa](https://www.acmicpc.net/problem/13484) &nbsp; → &nbsp; [13484.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/13484.cpp)
+* [14209번: Bridž](https://www.acmicpc.net/problem/14209) &nbsp; → &nbsp; [14209.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14209.cpp)
+* [14210번: Kartomat](https://www.acmicpc.net/problem/14210) &nbsp; → &nbsp; [14210.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14210.cpp)
 * [14919번: 분포표 만들기](https://www.acmicpc.net/problem/14919) &nbsp; → &nbsp; [14919.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14919.cpp)
 * [15667번: 2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667) &nbsp; → &nbsp; [15667.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/15667.cpp)
 
@@ -227,7 +229,8 @@
 * [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579) &nbsp; → &nbsp; [2579.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/2579.cpp)
 * [9095번: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) &nbsp; → &nbsp; [9095.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9095.cpp)
 * [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) &nbsp; → &nbsp; [11053.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11053.cpp)
-* [11726번: 2×n 타일링 ](https://www.acmicpc.net/problem/11726) &nbsp; → &nbsp; [11726.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11726.cpp)
+* [11726번: 2×n 타일링](https://www.acmicpc.net/problem/11726) &nbsp; → &nbsp; [11726.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/11726.cpp)
+* [14211번: Kas](https://www.acmicpc.net/problem/14211) &nbsp; → &nbsp; [14211.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/14211.cpp)
 
 #### Linked List
 * [1158번: 조세퍼스 문제](https://www.acmicpc.net/problem/1158) &nbsp; → &nbsp; [1158.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/1158.cpp)
