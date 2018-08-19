@@ -119,6 +119,8 @@
 * [9550번: 아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) &nbsp; → &nbsp; [9550.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/9550.cpp)
 * [10039번: 평균 점수](https://www.acmicpc.net/problem/10039) &nbsp; → &nbsp; [10039.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10039.cpp)
 * [10643번: FUNGHI](https://www.acmicpc.net/problem/10643) &nbsp; → &nbsp; [10643.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10643.cpp)
+* [10738번: TETA](https://www.acmicpc.net/problem/10738) &nbsp; → &nbsp; [10738.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10738.cpp)
+* [10739번: KRIZA](https://www.acmicpc.net/problem/10739) &nbsp; → &nbsp; [10739.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10739.cpp)
 * [10817번: 세 수](https://www.acmicpc.net/problem/10817) &nbsp; → &nbsp; [10817.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10817.cpp)
 * [10818번: 최소, 최대](https://www.acmicpc.net/problem/10818) &nbsp; → &nbsp; [10818.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10818.cpp)
 * [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871) &nbsp; → &nbsp; [10871.cpp](https://github.com/KimHwon/BOJ-Codes/blob/master/10871.cpp)
